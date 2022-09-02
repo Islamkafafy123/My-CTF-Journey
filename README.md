@@ -1,4 +1,4 @@
-# My-CTF-Journey
+# My-Cyper Security-Journey
 ## 1st CTF on CyperTalents
 #
 ## Challenge Name: Admin has the power
